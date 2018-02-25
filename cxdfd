@@ -18,4 +18,4 @@ if message.content == "cookie":
 await client.send_message(message.channel, ":cookie:")
 
 
-client.run("")
+client.run("NDE3MTE3Mzk0NTc4NzAyMzM3.DXSRYw.z3UOUQcV-v3KKX3oUTrMnfKlmVI")
